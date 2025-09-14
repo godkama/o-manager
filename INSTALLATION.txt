@@ -1,0 +1,9 @@
+Congrats on installing o!manager. Here are a few tips:
+
+- Upon first install, you should export your profile, since it will instantly create a backup and secure your settings and database !
+- Make sure to export your profile every time you change your settings. This will update everything for your installation.
+- If you want to delete a profile, just go to the program's directory and delete said profile's folder.
+
+Have a nice time using o!manager !!!
+
+For any issues contact me@kama.rip

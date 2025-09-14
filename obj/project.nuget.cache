@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rHHfQ4KHmr4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\avias\\source\\repos\\o!manager\\o!manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\avias\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
