@@ -280,7 +280,7 @@ namespace o_manager
             Directory.CreateDirectory(dstDir);
 
             string userCfg = $"osu!.{currentWindowsUser}.cfg";
-            string[] osuFiles = { "osu!.db", userCfg, "collection.db" };
+            string[] osuFiles = {userCfg};
 
             foreach (var f in osuFiles)
             {

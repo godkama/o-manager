@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 # none
 /bin/Debug/net8.0-windows
 /.vs/o!manager
 /obj/Release/net8.0-windows
+=======
+.gitignore
+/bin/Debug/net8.0-windows
+/.vs/o!manager
+# temp
+>>>>>>> 930077d47d1c2903566c005457cf87e4ffbefa16
